@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class 
 {
 
+
 	public static void main(String[] args) {
 	    Scanner input = new Scanner(System.in);
 	    int max = 0 , min = 0 , temp = 0 , max2 = 0;
