@@ -14,5 +14,7 @@ public class Main {
 		 }
 		 System.out.println("The maximum is : "+max);
 		 System.out.println("The minimum is : "+min);
+
+
 	}
 }
