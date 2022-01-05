@@ -69,6 +69,9 @@ public class Main {
 		}
 		else {
 			System.out.println("At least 8 elements");
+
+
+
 		}
 		
 	}
